@@ -1,9 +1,9 @@
 # Library
 Library Management System to manage their books and customers. 
 
-Front-End : PHP, CSS, Bootstrap
-Backend : MySQL, JS
-Server : Apache
+- Front-End : PHP, CSS, Bootstrap
+- Backend : MySQL, JS
+- Server : Apache
 
 ## Login
 ![image](https://user-images.githubusercontent.com/77526217/116258386-89915900-a792-11eb-91d5-c8a8e76ed514.png)
